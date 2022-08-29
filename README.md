@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-# Hi there I´m Carlos, *A Full Stack Software Developer!*  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there I´m Carlos, *A Full Stack Software Developer!* :wave:
 
 
 
@@ -12,6 +12,7 @@
 * ***Languages:*** Spanish (Native), English (C1), Italian (B1)
 *	***Team worker:*** Have been a key member of various companies and Henry Bootcamp Coding Group, where my skills were recognised and felt like an important contributor to my team.
  
+ * ✉️  You can contact me at [carlosvazqueznosetto@gmail.com](mailto:carlosvazqueznosetto@gmail.com)
   
 </details>
 
