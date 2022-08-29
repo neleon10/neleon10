@@ -1,6 +1,7 @@
+![Header](./github-header-image.png)
 ### Hi there 👋
 
-![Header](./github-header-image.png)
+
 
 
 <!--
@@ -17,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![The Adafruit Discord Badge](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/badges/adafruit_discord.svg)
+
